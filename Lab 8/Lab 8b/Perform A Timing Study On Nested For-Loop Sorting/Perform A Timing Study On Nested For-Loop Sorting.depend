@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444614217 source:c:\users\sohaib\desktop\comsc 210\lab 8\lab 8b\perform a timing study on nested for-loop sorting\nestedforloop.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstdlib>
+	<ctime>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1447703717 source:c:\users\sohaib\desktop\comsc 210\lab 10\lab 10a\hashtable\gameoflife10.cpp
+	<iostream>
+	<cstdlib>
+	"HashTable.h"
+
+1447705615 c:\users\sohaib\desktop\comsc 210\lab 10\lab 10a\hashtable\hashtable.h
+	<list>
+	<algorithm>
+	<vector>
+

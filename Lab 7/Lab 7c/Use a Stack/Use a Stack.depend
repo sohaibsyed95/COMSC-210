@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1445233161 source:c:\users\sohaib\desktop\comsc 210\lab 7\lab 7c\use a stack\preprocessor.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<cstring>
+	<string>
+	"Stack.h"
+
+1444077120 c:\users\sohaib\desktop\comsc 210\lab 7\lab 7c\use a stack\stack.h
+	<string>
+

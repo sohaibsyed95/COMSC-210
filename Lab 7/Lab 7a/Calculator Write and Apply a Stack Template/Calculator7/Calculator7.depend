@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1444016291 source:c:\users\sohaib\desktop\comsc 210\lab 7\lab 7a\calculator write and apply a stack template\calculator7\calculator7.cpp
+	<iostream>
+	<string>
+	<cctype>
+	<cstdlib>
+	<string>
+	<iomanip>
+	"Stack.h"
+
+1444016100 c:\users\sohaib\desktop\comsc 210\lab 7\lab 7a\calculator write and apply a stack template\calculator7\stack.h
+	<string>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1447706710 source:c:\users\sohaib\desktop\comsc 210\lab 10\lab 10b\apply the stl map template to the classic game of life simulation\gameoflife10b.cpp
+	<iostream>
+	<map>
+	<cstdlib>
+	"HashTable.h"
+
+1447706036 c:\users\sohaib\desktop\comsc 210\lab 10\lab 10b\apply the stl map template to the classic game of life simulation\hashtable.h
+	<list>
+	<algorithm>
+	<vector>
+

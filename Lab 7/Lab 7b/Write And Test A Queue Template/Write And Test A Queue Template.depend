@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444023192 source:c:\users\sohaib\desktop\comsc 210\lab 7\lab 7b\write and test a queue template\queuedriver.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"Queue.h"
+	"Queue.h"
+
+1444022908 c:\users\sohaib\desktop\comsc 210\lab 7\lab 7b\write and test a queue template\queue.h
+

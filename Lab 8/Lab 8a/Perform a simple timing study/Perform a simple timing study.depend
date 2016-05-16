@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1445039798 source:c:\users\sohaib\desktop\comsc 210\lab 8\lab 8a\perform a simple timing study\fileinput.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<cassert>
+	<cmath>
+	<ctime>
+

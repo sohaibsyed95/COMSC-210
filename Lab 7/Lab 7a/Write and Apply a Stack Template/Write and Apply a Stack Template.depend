@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444022037 source:c:\users\sohaib\desktop\comsc 210\lab 7\lab 7a\write and apply a stack template\stackdriver.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"Stack.h"
+	"Stack.h"
+
+1444019832 c:\users\sohaib\desktop\comsc 210\lab 7\lab 7a\write and apply a stack template\stack.h
+	<string>
+

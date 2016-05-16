@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1446500011 source:c:\users\sohaib\desktop\comsc 210\lab 9\lab 9a\write, test, and apply the associativearray template\associativearraydriver.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstring>
+	"AssociativeArray.h"
+	"AssociativeArray.h"
+
+1446500658 c:\users\sohaib\desktop\comsc 210\lab 9\lab 9a\write, test, and apply the associativearray template\associativearray.h
+	<vector>
+

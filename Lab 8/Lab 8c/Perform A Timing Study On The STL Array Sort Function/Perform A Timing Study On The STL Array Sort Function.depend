@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444617374 source:c:\users\sohaib\desktop\comsc 210\lab 8\lab 8c\perform a timing study on the stl array sort function\sort.cpp
+	<iostream>
+	<string>
+	<algorithm>
+	<cassert>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
