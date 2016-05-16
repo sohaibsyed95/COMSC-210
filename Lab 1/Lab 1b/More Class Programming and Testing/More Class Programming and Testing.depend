@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1440478904 source:c:\users\sohaib\desktop\comsc 210\lab 1\lab 1b\more class programming and testing\time.cpp
+	"Time.h"
+
+1440478904 c:\users\sohaib\desktop\comsc 210\lab 1\lab 1b\more class programming and testing\time.h
+
+1440478677 source:c:\users\sohaib\desktop\comsc 210\lab 1\lab 1b\more class programming and testing\timedriver.cpp
+	<iostream>
+	<cassert>
+	"Time.h"
+	"Time.h"
+
