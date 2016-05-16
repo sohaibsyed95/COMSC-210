@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449447160 source:c:\users\sohaib\desktop\comsc 210\lab 15\lab 15b\lab 15b depth first search, dfs\graphsearchdfs.cpp
+	<fstream>
+	<iostream>
+	<list>
+	<queue>
+	<string>
+	<stack>
+	<vector>
+	<algorithm>
+

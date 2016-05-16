@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1449447593 source:c:\users\sohaib\desktop\comsc 210\lab 15\lab 15a\breadth first search, bfs\graphsearchbfs.cpp
+	<fstream>
+	<iostream>
+	<list>
+	<queue>
+	<string>
+	<vector>
+	<algorithm>
+
