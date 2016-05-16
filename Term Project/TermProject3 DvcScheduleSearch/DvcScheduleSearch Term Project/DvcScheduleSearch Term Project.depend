@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1449616794 source:c:\users\sohaib\desktop\comsc 210\term project\dvcschedulesearch\dvcschedulesearch term project\dvcschedulesearch.cpp
+	<iostream>
+	<map>
+	<fstream>
+	<string>
+	<stack>
+	<algorithm>
+	<cstring>
+
+1462852019 source:c:\users\sohaib\desktop\comsc 210\term project\termproject3 dvcschedulesearch\dvcschedulesearch term project\dvcschedulesearch.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<fstream>
+	<map>
+	<string>
+	<cstring>
+	<ctime>
+

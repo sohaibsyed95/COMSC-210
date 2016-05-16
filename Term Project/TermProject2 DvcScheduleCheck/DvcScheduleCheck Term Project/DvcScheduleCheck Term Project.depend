@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1449616187 source:c:\users\sohaib\desktop\comsc 210\term project\dvcschedulecheck\dvcschedulecheck term project\dvcschedulecheck.cpp
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<map>
+	<set>
+	<iomanip>
+	<ctime>
+	<cstring>
+
+1450311144 source:c:\users\sohaib\desktop\comsc 210\term project\termproject2 dvcschedulecheck\dvcschedulecheck term project\dvcschedulecheck.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<iomanip>
+	<string>
+	<cstring>
+	<ctime>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449914006 source:c:\users\sohaib\desktop\comsc 210\term project\dvcschedulefinal\dvcschedulefinal term project\dvcschedulefinal.cpp
+	<iostream>
+	<algorithm>
+	<fstream>
+	<map>
+	<iomanip>
+	<string>
+	<cstring>
+	<ctime>
+
