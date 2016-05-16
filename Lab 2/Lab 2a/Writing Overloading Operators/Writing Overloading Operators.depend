@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1441083572 source:c:\users\sohaib\desktop\comsc 210\lab 2\lab 2a\writing overloading operators\timedriver.cpp
+	<iostream>
+	<cassert>
+	"Time.h"
+	"Time.h"
+
+1441082494 c:\users\sohaib\desktop\comsc 210\lab 2\lab 2a\writing overloading operators\time.h
+
+1441082494 source:c:\users\sohaib\desktop\comsc 210\lab 2\lab 2a\writing overloading operators\time.cpp
+	"Time.h"
+

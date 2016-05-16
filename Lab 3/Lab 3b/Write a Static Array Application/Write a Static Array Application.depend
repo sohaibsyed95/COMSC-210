@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1441957565 source:c:\users\sohaib\desktop\comsc 210\lab 3\lab 3b\write a static array application\mystaticarray.cpp
+	<iostream>
+	<cstdlib>
+	<vector>
+	"MyStaticArray.h"
+
+1441959422 c:\users\sohaib\desktop\comsc 210\lab 3\lab 3b\write a static array application\mystaticarray.h
+

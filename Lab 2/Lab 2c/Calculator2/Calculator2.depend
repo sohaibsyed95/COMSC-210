@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1441418878 source:c:\users\sohaib\desktop\comsc 210\lab 2\lab 2c\calculator2\calculator2.cpp
+	<iostream>
+	<stack>
+	<string>
+	<cctype>
+	<cstdlib>
+	<string>
+	<iomanip>
+

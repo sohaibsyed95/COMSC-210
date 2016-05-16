@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1441960526 source:c:\users\sohaib\desktop\comsc 210\lab 3\lab 3a\write a static array class template\staticarraydriver.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"StaticArray.h"
+	"StaticArray.h"
+
+1441959157 c:\users\sohaib\desktop\comsc 210\lab 3\lab 3a\write a static array class template\staticarray.h
+
