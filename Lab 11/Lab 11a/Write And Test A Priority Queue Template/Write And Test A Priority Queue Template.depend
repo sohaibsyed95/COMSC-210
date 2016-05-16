@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1448265745 source:c:\users\sohaib\desktop\comsc 210\lab 11\lab 11a\write and test a priority queue template\priorityqueuedriver.cpp
+	<iostream>
+	<cassert>
+	"PriorityQueue.h"
+	"PriorityQueue.h"
+
+1448265561 c:\users\sohaib\desktop\comsc 210\lab 11\lab 11a\write and test a priority queue template\priorityqueue.h
+	<algorithm>
+	<cassert>
+

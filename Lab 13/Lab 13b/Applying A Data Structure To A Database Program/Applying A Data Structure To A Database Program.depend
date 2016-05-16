@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1449469910 source:c:\users\sohaib\desktop\comsc 210\lab 13\lab 13b\applying a data structure to a database program\dvcschedule13b.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+	<cstring>
+	<ctime>
+	"SortableStaticArray.h"
+
+1449546840 c:\users\sohaib\desktop\comsc 210\lab 13\lab 13b\applying a data structure to a database program\sortablestaticarray.h
+	<vector>
+	<algorithm>
+	<iostream>
+

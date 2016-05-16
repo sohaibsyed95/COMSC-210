@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1448299815 source:c:\users\sohaib\desktop\comsc 210\lab 11\lab 11b\lab 11b perform a simple timing study\priorityqueuebigoh.cpp
+	<iostream>
+	<cassert>
+	<cmath>
+	<ctime>
+	"PriorityQueue.h"
+	"PriorityQueue.h"
+
+1448266762 c:\users\sohaib\desktop\comsc 210\lab 11\lab 11b\lab 11b perform a simple timing study\priorityqueue.h
+	<algorithm>
+	<cassert>
+

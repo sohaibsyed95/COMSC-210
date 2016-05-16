@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1448874678 source:c:\users\sohaib\desktop\comsc 210\lab 12\lab 12a\lab 12 write a customer service simulation\simulation.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<queue>
+	<string>
+	<cmath>
+	<cstdlib>
+	<ctime>
+

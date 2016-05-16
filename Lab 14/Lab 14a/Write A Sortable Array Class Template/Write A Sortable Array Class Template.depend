@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1449909743 source:c:\users\sohaib\desktop\comsc 210\lab 14\lab 14a\write a sortable array class template\mysortabledynamicarray.cpp
+	<iostream>
+	<cstdlib>
+	"SortableDynamicArray.h"
+
+1449797700 c:\users\sohaib\desktop\comsc 210\lab 14\lab 14a\write a sortable array class template\sortabledynamicarray.h
+	<vector>
+

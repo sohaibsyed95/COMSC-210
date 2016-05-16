@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1449390384 source:c:\users\sohaib\desktop\comsc 210\lab 13\lab 13a\write a sortable array class template\mysortablestaticarray.cpp
+	<iostream>
+	"SortableStaticArray.h"
+
+1449390617 c:\users\sohaib\desktop\comsc 210\lab 13\lab 13a\write a sortable array class template\sortablestaticarray.h
+	<vector>
+	<algorithm>
+	<iostream>
+
