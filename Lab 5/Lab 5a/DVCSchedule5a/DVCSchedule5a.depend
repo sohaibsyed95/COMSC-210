@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1443067785 source:c:\users\sohaib\desktop\comsc 210\lab 5\lab 5a\dvcschedule5a\dvcscedule5a.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<ctime>
+	"DynamicArray.h"
+
+1443399287 c:\users\sohaib\desktop\comsc 210\lab 5\lab 5a\dvcschedule5a\dynamicarray.h
+	<vector>
+
+1443397378 source:c:\users\sohaib\desktop\comsc 210\lab 5\lab 5a\dvcschedule5a\dvsschedule5a.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<ctime>
+	<algorithm>
+	"DynamicArray.h"
+

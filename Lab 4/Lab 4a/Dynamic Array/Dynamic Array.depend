@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1442728387 source:c:\users\sohaib\desktop\comsc 210\lab 4\lab 4a\dynamic array\dynamicarraydriver.cpp
+	<iostream>
+	<vector>
+	<cassert>
+	"DynamicArray.h"
+	"DynamicArray.h"
+
+1442728274 c:\users\sohaib\desktop\comsc 210\lab 4\lab 4a\dynamic array\dynamicarray.h
+

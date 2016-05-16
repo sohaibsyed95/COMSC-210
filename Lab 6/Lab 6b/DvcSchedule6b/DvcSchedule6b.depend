@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1444025136 source:c:\users\sohaib\desktop\comsc 210\lab 6\lab 6b\dvcschedule6b\dvcschedule6b.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<fstream>
+	<ctime>
+	<algorithm>
+	"LinkedArray.h"
+
+1443427182 c:\users\sohaib\desktop\comsc 210\lab 6\lab 6b\dvcschedule6b\dynamicarray.h
+	<vector>
+
+1444025116 c:\users\sohaib\desktop\comsc 210\lab 6\lab 6b\dvcschedule6b\linkedarray.h
+	<vector>
+
